@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6285624399386@s.whatsapp.net","6283829808734@s.whatsapp.net"],
+    "ownerName": " 𝙍𝙞𝙯𝙯 𝙋𝙧𝙤𝙨𝙚𝙧𝙥𝙞𝙣𝙚",
+    "instagram" : "https://instagram.com/todayis_rizz",
+    "botName": " 𝗥𝗶𝘇𝘇𝗕𝗼𝘁𝘇 ",
+    "footer": "api.zeeoneofc.xyz",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}

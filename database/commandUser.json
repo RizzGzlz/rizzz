@@ -1,0 +1,40 @@
+[
+  {
+    "jid": "6283829808734@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#nuliskiri",
+        "count": 1
+      },
+      {
+        "nama": "#emojimix",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285624399386@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#emojimix",
+        "count": 1
+      },
+      {
+        "nama": "#tiktok",
+        "count": 1
+      }
+    ]
+  }
+]
